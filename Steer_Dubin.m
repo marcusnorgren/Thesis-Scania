@@ -1,7 +1,8 @@
 % steering function:
 function [dist,x,y,T,solverStatus] = Steer_Dubin(obj,state1,state2,N)
 % steering function
-% args in: START, GOAL, ORDER OF POLYNOMIALS
+% args in: START, GOAL, ORDER OF POLYNOMIALS, obj not used
+% (!) remove/disable the first nearest_neighbour if block to not use Dubin as the nearest neighbour but instead the steer-function.
 % returns distance of curve, and polynomial functions (derivatives as well,
 % in x and y)
             global function_counter solverTime_list numStateVariables 
