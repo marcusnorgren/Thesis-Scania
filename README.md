@@ -13,3 +13,5 @@ Steer_acc - use this if acceleration is sampled (together with Polynomial_StateS
 
 multiSteer - uses multi-segments & Dubins when steering - not used in final thesis
 
+slow_mech - used in Steer_Dubin to handle low speed
+
