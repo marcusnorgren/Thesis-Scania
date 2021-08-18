@@ -5,7 +5,13 @@ Feel free to use and make any changes
 
 (!) Code requires the installation of OSPQ-solver.
 
-Steering method developed for a single TPBVP based on MIT paper.
+Steering method developed for a single TPBVP based on MIT paper:
+
+Richter, Charles, Adam Bry, and Nicholas Roy. “Polynomial
+Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor
+Environments.” Robotics Research. Ed. Masayuki Inaba and Peter
+Corke. Vol. 114. Cham: Springer International Publishing, 2016. 649–
+666.
 
 STEERING METHOD (Several versions exist):
 
