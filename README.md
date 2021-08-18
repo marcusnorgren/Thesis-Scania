@@ -31,6 +31,8 @@ main_steer - main script to run the planner
 
 Polynomial_StateSpace_NEW - custom state space in order to use the steering function - samples pos, heading, velocity
 
+Polynomial_StateSpace_acc - samples also acceleration. 
+
 Polynomial_Validator - checks collision for the whole vehicle, somewhat simplified
 
 CustomGoalReachedFcn - checks if goal is reached
