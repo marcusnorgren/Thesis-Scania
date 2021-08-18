@@ -18,7 +18,9 @@ multiSteer - uses multi-segments & Dubins when steering - not used in final thes
 slow_mech - used in Steer_Dubin to handle low speed
 
 PLANNER:
+
 test_steer - main script to run the planner
+
 Polynomial_StateSpace_NEW - custom state space in order to use the steering function - samples pos, heading, velocity
 
 Polynomial_Validator - checks collision for the whole vehicle, somewhat simplified
