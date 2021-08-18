@@ -7,7 +7,9 @@ Feel free to use and make any changes
 
 Steering method developed for a single TPBVP based on MIT paper.
 
-Several versions exist:
+STEERING METHOD (Several versions exist):
+
+
 
 Steer_Dubin - uses Dubin paths - FINAL VERSION
 
