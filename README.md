@@ -27,7 +27,7 @@ slow_mech - used in Steer_Dubin to handle low speed
 
 PLANNER:
 
-test_steer - main script to run the planner
+main_steer - main script to run the planner
 
 Polynomial_StateSpace_NEW - custom state space in order to use the steering function - samples pos, heading, velocity
 
