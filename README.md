@@ -15,7 +15,7 @@ Steer_Dubin - uses Dubin paths - FINAL VERSION
 
 Steer_acc - use this if acceleration is sampled (together with Polynomial_StateSpace_acc) - not used in final thesis
 
-multiSteer - uses multi-segments & Dubins when steering - not used in final thesis
+multiSteer_Dubin - uses multi-segments & Dubins when steering - not used in final thesis, but can maybe be used to complete more complicated motions - bit slower runtime
 
 slow_mech - used in Steer_Dubin to handle low speed
 
